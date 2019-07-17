@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id":"6cc90b0b-06c4-42bf-a728-cdea584777bc"
+      "name":"Ferrari",
+      "url":"https://github.com/arifullahjan/ARFoo/raw/master/ferrari.glb",
+      "collection": ["cars"],
+      "quality" : "9",
+      "type":"free"
+    },
+    {
+      "id":"83cd2a2d-7b0a-4cf3-8a3f-22a671b1286a"
+      "name":"1960 Chevrolet Corvette",
+      "url":"https://github.com/arifullahjan/ARFoo/raw/master/lucifers_corvette_-_1960_chevrolet_corvette_c1.glb",
+      "collection":["cars"],
+      "quality" : "7",
+      "type":"free"
+    },
+    {
+      "id":"f9ce3a1d-e384-4e78-8175-1572407214c1"
+      "name":"porche 918",
+      "url":"https://github.com/arifullahjan/ARFoo/raw/master/aston-_martin_v12_vantage.glb",
+      "collection":["cars"],
+      "quality" : "7",
+      "type":"free"
+    },
+    {
+      "id":"eb05bd05-51e6-4c9e-92fa-67dfedd06c63"
+      "name":"rello ups",
+      "url":"https://github.com/arifullahjan/ARFoo/raw/master/rello_ups.glb",
+      "collection":["cars"],
+      "quality" : "7",
+      "type":"free"
+    },
+    {
+      "id":"de343854-9372-4ba9-9fa5-2614fd367d08"
+      "name":"dodge_challenger.",
+      "url":"https://github.com/arifullahjan/ARFoo/raw/master/dodge_challenger.glb",
+      "collection":["cars"],
+      "quality" : "7",
+      "type":"free"
+    },
+    {
+      "id":"58d1e4cd-f1f9-4bd1-a3fe-ededdbb80624"
+      "name":"aston-_martin_v12_vantage.",
+      "url":"https://github.com/arifullahjan/ARFoo/raw/master/aston-_martin_v12_vantage.glb",
+      "collection":["cars"],
+      "quality" : "7",
+      "type":"free"
+    }
+  ],
+}
